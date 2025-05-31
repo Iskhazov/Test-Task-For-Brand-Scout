@@ -20,7 +20,7 @@ go test ./...
 ```
 ## API Endpoints
 GET /quotes - Get all quotes.  
-GET /quotes/random - Get one random quote.
-GET /quotes?author="Author_name" - Search quotes with certain author.
-POST /quotes - Post a new quote.
-DELETE /quotes/{id} - Delete a quote.
+GET /quotes/random - Get one random quote.  
+GET /quotes?author="Author_name" - Search quotes with certain author.  
+POST /quotes - Post a new quote.  
+DELETE /quotes/{id} - Delete a quote.  
